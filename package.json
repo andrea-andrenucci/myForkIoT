@@ -4,6 +4,7 @@
   "description": "",
   "main": "firstApp.js",
   "scripts": {
+    "start": "nodemon src/firstApp.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
